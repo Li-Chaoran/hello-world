@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="utJVNVcFiXrP77y_mI3D">
-    <mxGraphModel dx="1523" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3196" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pv2qresyjPH6O69dxo0p-99" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Linux电脑监控产线实际状态&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1006.5" y="500" width="130" height="50" as="geometry" />
+          <mxGeometry x="1003" y="630" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pv2qresyjPH6O69dxo0p-102" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pv2qresyjPH6O69dxo0p-86" target="Pv2qresyjPH6O69dxo0p-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -401,6 +401,36 @@
         </mxCell>
         <mxCell id="Pv2qresyjPH6O69dxo0p-106" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.3333333333333333;" vertex="1" parent="1">
           <mxGeometry x="1140" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-117" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=6;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="130" as="sourcePoint" />
+            <mxPoint x="1380" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-118" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=6;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="250" as="sourcePoint" />
+            <mxPoint x="1380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-119" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=6;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="600" as="sourcePoint" />
+            <mxPoint x="1390" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-120" value="&lt;font style=&quot;font-size: 36px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;服务器层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="40" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-122" value="&lt;font style=&quot;font-size: 36px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;中间层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="170" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-123" value="&lt;font style=&quot;font-size: 36px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;控制执行层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="385" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-124" value="&lt;font style=&quot;font-size: 36px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;监控层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="640" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
