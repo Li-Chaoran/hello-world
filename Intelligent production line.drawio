@@ -322,16 +322,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pv2qresyjPH6O69dxo0p-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;树莓派&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFB366,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1010" y="300" width="123" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pv2qresyjPH6O69dxo0p-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pv2qresyjPH6O69dxo0p-88" target="Pv2qresyjPH6O69dxo0p-99">
+        <mxCell id="Pv2qresyjPH6O69dxo0p-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pv2qresyjPH6O69dxo0p-86" target="Pv2qresyjPH6O69dxo0p-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pv2qresyjPH6O69dxo0p-113" value="ROS2节点通讯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pv2qresyjPH6O69dxo0p-105">
-          <mxGeometry x="0.0347" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="6" as="offset" />
+        <mxCell id="Pv2qresyjPH6O69dxo0p-116" value="ROS2节点通讯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pv2qresyjPH6O69dxo0p-115">
+          <mxGeometry x="0.2074" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pv2qresyjPH6O69dxo0p-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;树莓派&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFB366,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="1010" y="300" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pv2qresyjPH6O69dxo0p-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;四足巡检机器狗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFB366,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="1010" y="385" width="123" height="40" as="geometry" />
