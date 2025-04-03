@@ -1,4 +1,2 @@
-# hello-world
-此存储库用于练习 GitHub 流
-
-I am your father and it is my first try.
+# 此库用于存放个人博客资料和文件
+此库所有权归Li-Chaoran所有，未经授权搬运，后果自负
